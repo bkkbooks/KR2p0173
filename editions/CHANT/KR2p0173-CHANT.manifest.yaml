@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR2p0173/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0173/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十問釋文
+  identifiers:
+    krp: KR2p0173
+  tags:
+    tls-internal: swl
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0173.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0173_001-CHANT.yaml, hash: 'sha256:4c82f005c57cab5db2476543a61ef629809a0d4c8c1bb9fcce8168c06f265922'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0173_001-CHANT.markers.yaml, hash: 'sha256:52c5135fb59fd271be0995db7afb6050bd0296885ae7aa51cffce4d5e1bebfd4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0173_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2674
+  label: 馬王堆漢墓帛書十問釋文
+  type: section
+  level: 1
+hash: sha256:c65007acb43ad6973fbc2370bb5ab8f5c219487a18797ca06a256a053b8183db
