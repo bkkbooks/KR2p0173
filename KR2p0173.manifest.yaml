@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0173_001.yaml, hash: 'sha256:2e72fce9e97353c89fff421376c35ad8fa8797f42045606980a26520e337163d'}
+  - {seq: 1, filename: KR2p0173_001.yaml, hash: 'sha256:4c82f005c57cab5db2476543a61ef629809a0d4c8c1bb9fcce8168c06f265922'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0173_001.markers.yaml, hash: 'sha256:d24223cb5de4f8654dd7aa51eab37c9b6b1524f9433d00452f36438940f9d93c'}
+  - {seq: 1, role: markers, filename: assets/KR2p0173_001.markers.yaml, hash: 'sha256:cacef8cb86b6e25714fb77a3ed01491e2bd4645f47cdf79eedf98eb9588c237c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 馬王堆漢墓帛書十問釋文
   type: section
   level: 1
-hash: sha256:a0e41d68aad3303728ac68fd46254274e4475055b7bb1fdc5dff4bfc72446763
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1575b82a288e1c6836f01df09e222822dc74a2a55aec34f2e4185d183df34e60
