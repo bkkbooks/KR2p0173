@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0173/v1
 canonical_location: https://kanripo.org/bkk/KR2p0173/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 十問釋文
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0173_001.yaml, hash: 'sha256:4c82f005c57cab5db2476543a61ef629809a0d4c8c1bb9fcce8168c06f265922'}
+  - {seq: 1, filename: KR2p0173_001.yaml, hash: 'sha256:8a8997d9fe839951f1f0d66337de7731dac9f51595ee35cda78b9b0a291ec966'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0173_001.markers.yaml, hash: 'sha256:cacef8cb86b6e25714fb77a3ed01491e2bd4645f47cdf79eedf98eb9588c237c'}
+  - {seq: 1, role: markers, filename: assets/KR2p0173_001.markers.yaml, hash: 'sha256:030abebac9864a63aee2a78272125cc14fdef200e853ad0b6314a3617327775e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 馬王堆漢墓帛書十問釋文
   type: section
   level: 1
-hash: sha256:1575b82a288e1c6836f01df09e222822dc74a2a55aec34f2e4185d183df34e60
+hash: sha256:99ff855de92c5c98a1d230d4a7e675f045c41839db4c0f4b6fa62b5b94e1ec3d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
